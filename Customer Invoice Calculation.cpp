@@ -2,8 +2,6 @@
 //
 //  Author:        Vineet Byakod
 //
-//  Date:          2023.03.09
-//
 //  Description:   This file provides the customer bill/invoice for a Home Theatre company.
 //
 /*****************************************************************************/
