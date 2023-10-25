@@ -1,6 +1,4 @@
-// File Header: Lab 1 - Problem 1
 // Name: Vineet Byakod
-// Email: vineet.byakod@gmail.com
 // Description: A program to determine the dollar amount of coins in a change purse.
 
 #include <iostream>
